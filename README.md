@@ -12,19 +12,11 @@
 
 ## ITスキル
 
-### プログラミング
+### プログラミング(日々書いてるもの)
 - bash (shell)
 - perl
 - sed
 - awk
-
-### ミドルウェア
-- Apache
-- Jenkins
-- SNMP
-
-### コンテナ
-- Docker
 
 ### OS
 - CentOS 5, 6, 7
